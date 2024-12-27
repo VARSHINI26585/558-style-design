@@ -1,6 +1,4 @@
-Here is the same program, but instead of a library management system, it's for a style design management system:
 
-```
 #include <stdio.h>
 #include <string.h>
 
